@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/white1</item>
+        <item name="colorPrimaryDark">@color/white1</item>
+        <item name="colorAccent">@color/black1</item>
+        <item name="titleTextColor">@color/black1</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:textColorPrimary">@color/grey1</item>
+        <item name="android:actionBarTheme">@style/Widget.AppCompat.ActionBar</item>
+        <item name="android:popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:actionOverflowMenuStyle">@style/Base.Widget.AppCompat.PopupMenu.Overflow</item>
+    </style>
+</resources>

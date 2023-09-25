@@ -1,0 +1,52 @@
+{
+	"list": [
+		{
+			"label": "C",
+			"type": "pre-sale",
+			"data": [
+				{
+					"date": "2005-12-01",
+					"price": 51000
+				},
+				{
+					"date": "2023-01-01",
+					"price": 51000
+				}
+			]
+		},
+		{
+			"label": "D",
+			"type": "pre-sale",
+			"data": [
+				{
+					"date": "2019-12-01",
+					"price": 51000
+				},
+				{
+					"date": "2023-01-01",
+					"price": 51000
+				}
+			]
+		},
+		{
+			"label": "A",
+			"type": "pre-sale",
+			"data": [
+				{
+					"date": "2010-12-01",
+					"price": 51000
+				},
+				{
+					"date": "2023-01-01",
+					"price": 51000
+				}
+			]
+		}
+	],
+	"summary": {
+		"minPrice": 51000,
+		"maxPrice": 51000,
+		"startDate": "2005-12-01",
+		"endDate": "2023-01-01"
+	}
+}
